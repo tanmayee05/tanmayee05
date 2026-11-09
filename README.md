@@ -163,27 +163,6 @@ An **NLP-powered ATS analyzer** that scores resume and job description fit with 
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-## 📊 GitHub Stats
-
-<!-- EDIT: change "&theme=tokyonight" to another theme (radical, dracula, merko, etc.) -->
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanmayee05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayee05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=tanmayee05&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmayee05&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
-
-</div>
-
----
-
 <!-- ================= ACHIEVEMENTS ================= -->
 ## 🏆 Achievements & Certifications
 
